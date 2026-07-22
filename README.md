@@ -12,48 +12,77 @@
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
-  <h3>🔒 Cybersecurity</h3>
-  <p>
-    <img src="https://img.shields.io/badge/SOC_Operations-000000?style=for-the-badge&logo=security&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VAPT-EF3B2D?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SIEM-005E9D?style=for-the-badge&logo=elastic&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OSINT-557C94?style=for-the-badge&logo=tor&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Incident_Response-FF6B35?style=for-the-badge&logo=firewall&logoColor=white"/>
-  </p>
+### 💻 Programming Languages
 
-  <h3>📊 Data Analytics</h3>
-  <p>
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Data_Visualization-150458?style=for-the-badge&logo=tableau&logoColor=white"/>
-    <img src="https://img.shields.io/badge/EDA-013243?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ETL-4479A1?style=for-the-badge&logo=apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-  <h3>🤖 AI & Gen AI</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Generative_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Machine_Learning-FF6B35?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Predictive_Modeling-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  </p>
+### 🗄️ Databases
 
-  <h3>🌐 Web Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/REST_APIs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-  <h3>💻 Programming & Top Skills</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Problem_Solving-ED8B00?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </p>
-</div>
+### 🤖 AI Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZeroBrain-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Leonardo_AI-440381?style=for-the-badge"/>
+</p>
+
+### 🔒 Cybersecurity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC_Operations-000000?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VAPT-EF3B2D?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SIEM-005E9D?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSINT-557C94?style=for-the-badge&logo=tor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Incident_Response-FF6B35?style=for-the-badge&logo=firewall&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_Security-FF0000?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat_Detection-FF6B35?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intrusion_Detection-000000?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
+### 📊 Data Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-150458?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EDA-013243?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-4479A1?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scapy-FF6B35?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
 
 ---
 
