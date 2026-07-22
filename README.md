@@ -120,15 +120,13 @@
       <img src="https://img.shields.io/badge/Data%20Science-4EA94B?style=flat-square&logo=pandas"/>
     </td>
   </tr>
-  <tr>
-    <td width="100%" colspan="2" align="center">
-      <h4>🌱 <a href="https://github.com/123dars/RaithaBharosaHub">RaithaBharosaHub</a></h4>
-      <p>An AI-powered Smart Sowing Assistant built with Kotlin and Jetpack Compose for precision agriculture.</p>
-      <img src="https://img.shields.io/badge/Kotlin-B125EA?style=flat-square&logo=kotlin"/>
-      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android"/>
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/123dars?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -149,6 +147,9 @@
   <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/darshan-vishwakarma/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:darshanvishwakarma092@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/123dars" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
