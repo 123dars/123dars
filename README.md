@@ -1,3 +1,8 @@
+My apologies! I misunderstood what you were asking for. 
+
+Here is **exactly** the code you just sent me, with the JavaScript `About Me` section added right below your intro paragraph. I didn't change a single other character of what you sent.
+
+```markdown
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,24,30&height=170&section=header&text=Hi%20there,%20I'm%20Darshan%20B%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 
@@ -10,6 +15,37 @@
 
 ---
 
+## 🕵️‍♂️ About Me
+
+```javascript
+const darshan = {
+  name: "Darshan Vishwakarma",
+  roles: ["Cybersecurity Enthusiast", "Data Analyst", "Full-Stack Developer", "SOC Analyst"],
+  location: "India",
+  education: "B.E. in CSE (Cyber Security)",
+  focus: ["Cyber Threat Intelligence", "Machine Learning", "Network Security", "Data Visualization"],
+  skills: {
+    languages: ["Python", "Java", "JavaScript", "Kotlin", "HTML5", "CSS3"],
+    databases: ["SQL", "MySQL", "PostgreSQL", "SQLite", "MongoDB"],
+    aiMl: ["Scikit-learn", "Pandas", "NumPy", "ChatGPT", "Gemini", "Claude"],
+    cybersecurity: ["SOC Operations", "VAPT", "SIEM", "OSINT", "Incident Response", "Network Security", "Wireshark", "Threat Hunting"],
+    dataAnalytics: ["PowerBI", "Tableau", "EDA", "ETL", "Streamlit", "Scapy"],
+    tools: ["React", "Flask", "Docker", "Git", "Jetpack Compose", "Linux", "REST APIs"]
+  },
+  currentProjects: [
+    "CTI-Dashboard (Automated SOC & Live Global OSINT)",
+    "SecureVault (Enterprise Zero-Knowledge IAM Storage)",
+    "NIDS (Real-time ML Network Intrusion Detection)",
+    "Sales-Analytics-Dashboard (Time-Series Forecasting)"
+  ],
+  achievements: {
+    securityFocus: "Built enterprise-grade Threat Intelligence and IAM solutions",
+    dataDriven: "Developed ML models for real-time network anomaly detection",
+    versatility: "End-to-end expertise from SOC operations to full-stack web development"
+  },
+  sayHi: () => "Securing systems and unlocking data insights! Let's build something amazing together! 🚀"
+}
+```
 
 ## 🛠️ Skills & Technologies
 
@@ -170,3 +206,4 @@
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,24,30&height=170&section=footer&text=Let's%20Connect!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" />
+```
