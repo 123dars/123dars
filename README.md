@@ -133,8 +133,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123dars&show_icons=true&theme=radical&hide_border=true" alt="123dars's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123dars&theme=radical&hide_border=true" alt="123dars's GitHub streak" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=123dars&show_icons=true&theme=radical&hide_border=true" alt="123dars's GitHub stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=123dars&theme=radical&hide_border=true" alt="123dars's GitHub streak" width="48%" />
 </div>
 
 <br>
