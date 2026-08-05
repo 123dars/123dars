@@ -9,6 +9,36 @@
 </div>
 
 ---
+## 🕵️‍♂️ About Me
+
+```javascript
+const darshan = {
+  name: "Darshan Vishwakarma",
+  roles: ["Cybersecurity Enthusiast", "Data Analyst", "Full-Stack Developer", "SOC Analyst"],
+  location: "India",
+  education: "B.E. in CSE (Cyber Security)",
+  focus: ["Cyber Threat Intelligence", "Machine Learning", "Network Security", "Data Visualization"],
+  skills: {
+    languages: ["Python", "Java", "JavaScript", "Kotlin", "HTML5", "CSS3"],
+    databases: ["SQL", "MySQL", "PostgreSQL", "SQLite", "MongoDB"],
+    aiMl: ["Scikit-learn", "Pandas", "NumPy", "ChatGPT", "Gemini", "Claude"],
+    cybersecurity: ["SOC Operations", "VAPT", "SIEM", "OSINT", "Incident Response", "Network Security", "Wireshark", "Threat Hunting"],
+    dataAnalytics: ["PowerBI", "Tableau", "EDA", "ETL", "Streamlit", "Scapy"],
+    tools: ["React", "Flask", "Docker", "Git", "Jetpack Compose", "Linux", "REST APIs"]
+  },
+  currentProjects: [
+    "CTI-Dashboard (Automated SOC & Live Global OSINT)",
+    "SecureVault (Enterprise Zero-Knowledge IAM Storage)",
+    "NIDS (Real-time ML Network Intrusion Detection)",
+    "Sales-Analytics-Dashboard (Time-Series Forecasting)"
+  ],
+  achievements: {
+    securityFocus: "Built enterprise-grade Threat Intelligence and IAM solutions",
+    dataDriven: "Developed ML models for real-time network anomaly detection",
+    versatility: "End-to-end expertise from SOC operations to full-stack web development"
+  },
+  sayHi: () => "Securing systems and unlocking data insights! Let's build something amazing together! 🚀"
+}
 
 ## 🛠️ Skills & Technologies
 
