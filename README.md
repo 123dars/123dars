@@ -14,7 +14,7 @@
 
 ```javascript
 const darshan = {
-  name: "Darshan Vishwakarma",
+  name: "Darshan B",
   roles: ["Cybersecurity Enthusiast", "Data Analyst", "Full-Stack Developer", "SOC Analyst"],
   location: "India",
   education: "B.E. in CSE (Cyber Security)",
