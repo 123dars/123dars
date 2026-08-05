@@ -133,9 +133,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=123dars&theme=radical&row=1&column=4&no-bg=true&no-frame=true" alt="123dars's Trophies" width="48%" />
-</a>
+<img src="https://streak-stats.alestor123.vercel.app/?user=123dars&theme=radical&hide_border=true" alt="123dars's GitHub streak" width="48%" />
 </div>
 
 <br>
