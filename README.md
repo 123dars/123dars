@@ -1,8 +1,3 @@
-My apologies! I misunderstood what you were asking for. 
-
-Here is **exactly** the code you just sent me, with the JavaScript `About Me` section added right below your intro paragraph. I didn't change a single other character of what you sent.
-
-```markdown
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,24,30&height=170&section=header&text=Hi%20there,%20I'm%20Darshan%20B%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 
