@@ -133,7 +133,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.alestor123.vercel.app/?user=123dars&theme=radical&hide_border=true" alt="123dars's GitHub streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=123dars&show_icons=true&theme=radical&hide_border=true" alt="123dars's GitHub stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=123dars&theme=react-dark&hide_border=true" alt="123dars's Activity Graph" width="48%" />
 </div>
 
 <br>
