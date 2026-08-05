@@ -133,7 +133,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=123dars&layout=compact&theme=radical&hide_border=true" alt="123dars's Top Languages" width="48%" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=123dars&theme=radical&row=1&column=4&no-bg=true&no-frame=true" alt="123dars's Trophies" width="48%" />
+</a>
 </div>
 
 <br>
